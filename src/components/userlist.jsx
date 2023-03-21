@@ -21,8 +21,7 @@ const userlist = ({ handleNextClick, users, handleBackClick }) => {
             &#8249;
           </button>
           <button onClick={handleNextClick} className="next_button">
-            {" "}
-            &#8250;{" "}
+            &#8250;
           </button>
         </div>
       </div>
